@@ -1,0 +1,4 @@
+PC Desktop , Hours: 12.0, Lesson: Yes, Total Cost: $420.0, Tue Nov 13 11:49:24 AWST 2018
+Laptop , Hours: 0.0, Lesson: Yes, Total Cost: $0.0, Tue Nov 13 11:51:24 AWST 2018
+PC Desktop , Hours: 24.0, Lesson: Yes, Total Cost: $840.0, Tue Nov 13 20:25:21 AWST 2018
+iPad , Hours: 11.0, Lesson: No, Total Cost: $220.0, Tue Nov 13 20:27:02 AWST 2018
